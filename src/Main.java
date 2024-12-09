@@ -73,8 +73,6 @@ public class Main {
         while(gissning)
         {
 
-
-
             System.out.println("Gissa på ett tal 1-100");
             String gissning2 = scanner.nextLine();
 
